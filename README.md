@@ -3,3 +3,4 @@
 ## Contributors
 
 - [Ing. Jakub Josef Forman](https://jakubforman.eu)
+- [Václav Pátík](https://github.com/feltwine)
