@@ -8,3 +8,4 @@
 - [Václav Pátík](https://github.com/feltwine) .*.*>>
 - [Tadeáš Mikeška](https://github.com/teddv8)
 - [Jakub Zámečník](https://github.com/jackkybl).!!!!;;
+- [Tomáš Závodský](https://github.com/Zavodskyy) ?!?
