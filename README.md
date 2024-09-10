@@ -2,4 +2,4 @@
 
 ## Contributors
 
-- [Ing. Jakub Josef Forman](https://jakubforman.eu)
+- [Ing. Jakub Josef Forman](https://github.com/jakubforman)
