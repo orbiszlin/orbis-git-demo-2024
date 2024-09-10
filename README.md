@@ -20,7 +20,7 @@
 
 ## Contributors
 
-- [Ing. Jakub Josef Forman](https://jakubforman.eu)
+- [Ing. Jakub Josef Forman](https://github.com/jakubforman)
 - [Jiří Dresler](https://github.com/Kernepult1).
 - [Jáchym Vlček](https://github.com/KamoNedavamTo)
 - [Václav Pátík](https://github.com/feltwine) .*.*>>
