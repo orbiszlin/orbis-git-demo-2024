@@ -9,3 +9,4 @@
 - [Tadeáš Mikeška](https://github.com/teddv8)
 - [Jakub Zámečník](https://github.com/jackkybl).!!!!;;
 - [Tomáš Závodský](https://github.com/Zavodskyy) ?!?
+- [Adam Kunorza](https://github.com/Ady1s)
