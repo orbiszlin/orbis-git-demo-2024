@@ -3,3 +3,4 @@
 ## Contributors
 
 - [Ing. Jakub Josef Forman](https://jakubforman.eu)
+- [Jakub Zámečník](https://github.com/JackKybl)
